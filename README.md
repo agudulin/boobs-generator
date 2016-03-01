@@ -1,2 +1,2 @@
 # boobs-generator
-boobs generator.
+boobs generator [wip]
